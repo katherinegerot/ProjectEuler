@@ -1,5 +1,9 @@
 # Project Euler Methods
 
+## Project Euler Spoilers
+
+Do not continue if you want to solve these problems on your own
+
 ## About Project Euler
 *Excerpt from projecteuler.net* :
 
